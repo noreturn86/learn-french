@@ -1,11 +1,11 @@
-import './App.css'
-import FrenchVerbs from './pages/FrenchVerbs';
+import './App.css';
+import Sidebar from './pages/Sidebar';
 
 function App() {
 
   return (
     <div>
-      <FrenchVerbs />
+      <Sidebar />
     </div>
   )
 }
